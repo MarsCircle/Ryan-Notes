@@ -9,3 +9,5 @@
 - [MyBatis GeneratorXML 配置模板](https://github.com/MarsCircle/Ryan-Notes/blob/master/MyBatis%20GeneratorXML%20%E9%85%8D%E7%BD%AE%E6%A8%A1%E6%9D%BF.md)
 - [Docker](https://github.com/MarsCircle/Ryan-Notes/blob/master/Docker.md)
 - [NIO、BIO](https://github.com/MarsCircle/Ryan-Notes/blob/master/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
+## 数模
+- [R语言](https://github.com/MarsCircle/Ryan-Notes/blob/master/R语言学习.md)
